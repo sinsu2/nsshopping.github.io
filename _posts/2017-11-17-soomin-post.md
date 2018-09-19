@@ -1,2 +1,0 @@
-soomin
-test
