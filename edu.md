@@ -2,7 +2,7 @@
 layout: home
 ---
 <ul id="post-list">
-    {% for edu in paginator.edu %}
+    {% for post in paginator.post %}
         {% include item.html %}
     {% endfor %}
 </ul>
