@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "github 교육시 유용한 기본명령어"
+title: "Java 테스트 내용"
 author: kilsu.shin
 date: "2017-11-20 14:20:13 +0900"
 categories: [Java 프로그램]
