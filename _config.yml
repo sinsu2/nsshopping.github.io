@@ -1,17 +1,17 @@
 #Site settings
-title: NS쇼핑 기술 블로그
+title: Sinsu2 IT 블로그
 email: skyksit@nsmall.com
 description: |
-  삶의 가치 창출과 행복나눔
+  커리어 관리와 정보나눔
 baseurl: ''
-url: 'http://nsshopping.github.io'
+url: 'http://sinsu2.github.io'
 timezone: Asia/Seoul
 
 encoding: utf-8
 highlighter: rouge
 #highlighter: pygments
 
-repository: nsshopping/nsshopping.github.io
+repository: sinsu2/sinsu2.github.io
 
 permalink: /:year/:month/:day/:title/
 
@@ -59,7 +59,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 keep_files: [assets, files]
 github: [metadata]
 #custom
-author: skyksit@nsmall.com
+author: sinsu2@nsmall.com
 image: '/assets/images/default_blog_cover.jpg'
 ogimage: '/assets/images/default_blog_ogimage.jpg'
 asset_url: /assets
